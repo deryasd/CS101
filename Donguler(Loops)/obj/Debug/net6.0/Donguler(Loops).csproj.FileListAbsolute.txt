@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\bin\Debug\net6.0\Donguler(Loops).exe
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\bin\Debug\net6.0\Donguler(Loops).deps.json
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\bin\Debug\net6.0\Donguler(Loops).runtimeconfig.json
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\bin\Debug\net6.0\Donguler(Loops).dll
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\bin\Debug\net6.0\Donguler(Loops).pdb
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\obj\Debug\net6.0\Donguler(Loops).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\obj\Debug\net6.0\Donguler(Loops).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\obj\Debug\net6.0\Donguler(Loops).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\obj\Debug\net6.0\Donguler(Loops).AssemblyInfo.cs
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\obj\Debug\net6.0\Donguler(Loops).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\obj\Debug\net6.0\Donguler(Loops).dll
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\obj\Debug\net6.0\refint\Donguler(Loops).dll
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\obj\Debug\net6.0\Donguler(Loops).pdb
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\obj\Debug\net6.0\Donguler(Loops).genruntimeconfig.cache
+C:\Users\user\Desktop\CS101\CS101\Donguler(Loops)\obj\Debug\net6.0\ref\Donguler(Loops).dll
