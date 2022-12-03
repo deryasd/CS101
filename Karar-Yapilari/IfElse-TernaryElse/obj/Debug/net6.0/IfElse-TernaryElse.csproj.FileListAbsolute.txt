@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\bin\Debug\net6.0\IfElse-TernaryElse.exe
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\bin\Debug\net6.0\IfElse-TernaryElse.deps.json
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\bin\Debug\net6.0\IfElse-TernaryElse.runtimeconfig.json
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\bin\Debug\net6.0\IfElse-TernaryElse.dll
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\bin\Debug\net6.0\IfElse-TernaryElse.pdb
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\obj\Debug\net6.0\IfElse-TernaryElse.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\obj\Debug\net6.0\IfElse-TernaryElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\obj\Debug\net6.0\IfElse-TernaryElse.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\obj\Debug\net6.0\IfElse-TernaryElse.AssemblyInfo.cs
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\obj\Debug\net6.0\IfElse-TernaryElse.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\obj\Debug\net6.0\IfElse-TernaryElse.dll
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\obj\Debug\net6.0\refint\IfElse-TernaryElse.dll
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\obj\Debug\net6.0\IfElse-TernaryElse.pdb
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\obj\Debug\net6.0\IfElse-TernaryElse.genruntimeconfig.cache
+C:\Users\user\Desktop\CS101\CS101\Karar-Yapilari\IfElse-TernaryElse\obj\Debug\net6.0\ref\IfElse-TernaryElse.dll

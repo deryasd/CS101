@@ -2,10 +2,10 @@
 {
     private static void Main(string[] args)
     {
-        /*try
+        try
         {
             Console.WriteLine("Bir sayı giriniz:");
-            int sayi = Convert.ToInt32(Console.ReadLine());
+            int sayi = Convert.ToInt32((Console.ReadLine));
             Console.WriteLine("Girmiş olduğunuz sayi :" + sayi);
         }
         catch(Exception ex)
@@ -15,7 +15,7 @@
         finally
         {
             Console.WriteLine("İşlem tamamlandı.");
-        }*/
+        }
         
         try
         {
